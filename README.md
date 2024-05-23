@@ -36,6 +36,14 @@
 * DevSecOps Consultant and Manager at BBVA: Focused on security integration in CI/CD and vulnerability management.
 * Analyst Developer at Management Solution: Worked on projects for BBVA and BCE.
 
+## Some Badges
+
+<a href="https://www.credly.com/badges/29b9ca51-5b20-44a9-9a1e-0a6afce1a2f6"><img src="https://images.credly.com/size/340x340/images/f1b8225e-1ce5-436c-8189-07d189b44650/image.png" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/7a173d80-ccf1-4773-91f5-0fa887487a54/linked_in_profile"><img src="https://images.credly.com/size/340x340/images/54bdb135-16dd-4f91-a89f-b5f9eed28286/image.png" width="100" height="100"></a>
+<a href="https://www.credly.com/badges/801afc1f-0ab6-4197-8b57-95089b0fee93?source=linked_in_profile"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100"></a>
+<a href="https://google.accredible.com/dedad87b-9a25-42c7-92fb-351e23cff03a"><img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="100" height="100"></a>
+<a href="https://devops.credly.com/member-badges/16514857"><img src="https://credlyapp.s3.amazonaws.com/badges/8bbb7b5a060a84447018cb1ee062f85a_17.png" width="100" height="100"></a>
+
 ## 📫 How to reach me:
 
 - LinkedIn: www.linkedin.com/in/sergio-iriz-ricote-b71843122
