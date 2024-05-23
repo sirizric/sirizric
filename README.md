@@ -6,10 +6,10 @@
 
 🔐 My expertise lies in cybersecurity, and I'm passionate about developing and implementing security measures to protect against threats. Proficency expertise on the Secure Development LifeCycle (SSDLC) and Cloud Security.
 
-![Terraform]([https://img.shields.io/badge/Go-Expert-blue](https://img.shields.io/badge/Terraform-Expert-blue)
+![Terraform](https://img.shields.io/badge/Terraform-Expert-blue)
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
-![Cloudformation]([https://img.shields.io/badge/Go-Expert-blue](https://img.shields.io/badge/Cloudformation-Expert-blue)
-![AWS]([https://img.shields.io/badge/Go-Expert-blue](https://img.shields.io/badge/AWS-Expert-blue)
+![Cloudformation](https://img.shields.io/badge/Cloudformation-Expert-blue)
+![AWS](https://img.shields.io/badge/AWS-Expert-blue)
 ![Java](https://img.shields.io/badge/Java-Intermediate-green)
 ![Javascript](https://img.shields.io/badge/Javascript-Intermediate-green)
 ![GCP](https://img.shields.io/badge/GCP-Intermediate-green)
@@ -19,10 +19,10 @@
 
 ### Knowledge areas
 
-![Cybersecurity]([https://img.shields.io/badge/Go-Expert-blue](https://img.shields.io/badge/Cybersecurity-💼-purple)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-💼-purple)
 ![SSDLC](https://img.shields.io/badge/SSDLC-💼-purple)
-![Privacy]([https://img.shields.io/badge/Go-Expert-blue](https://img.shields.io/badge/Privacy-💼-purple)
-![Secure Code Reviews]([https://img.shields.io/badge/Go-Expert-blue](https://img.shields.io/badge/AWS-💼-purple)
+![Privacy](https://img.shields.io/badge/Privacy-💼-purple)
+![Secure Code Reviews](https://img.shields.io/badge/AWS-💼-purple)
 ![Hacking Web](https://img.shields.io/badge/HackingWeb-💼-purple)
 ![Agile Management](https://img.shields.io/badge/AgileManagement-💼-purple)
 
