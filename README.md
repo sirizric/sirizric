@@ -4,7 +4,7 @@
 
 💼 Currently, I'm working as a Staff Security Engineer at Okta, where I focus on ensuring the security and confidentiality of our systems and data.
 
-🔐 My expertise lies in cybersecurity, and I'm passionate about developing and implementing security measures to protect against threats. Proficency expertise on the Secure Development LifeCycle (SSDLC) and Cloud Security.
+🔐 My expertise lies in cybersecurity, and I'm passionate about developing and implementing security measures to protect against threats. Proficiency expertise in the Secure Development Life Cycle (SSDLC) and Cloud Security.
 
 ![Terraform](https://img.shields.io/badge/Terraform-Expert-blue)
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
