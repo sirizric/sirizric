@@ -34,7 +34,7 @@ Hi there! I'm a Computer Engineer from [Carlos III University (UC3M)](https://ww
 * Lead Application Security Engineer at Openbank (Santander Group): Implemented SSDLC in AWS, integrated security in CI/CD, and led a Security Champions program.
 * DevSecOps Manager at GMV (Orange): Conducted security audits, defined policies, and managed projects.
 * DevSecOps Consultant and Manager at GMV (BBVA): Focused on security integration in CI/CD and vulnerability management.
-* Analyst Developer at Management Solution: Worked on projects for BBVA and BCE.
+* Analyst Developer at Management Solution: Worked on fullstack projects for BBVA and BCE.
 
 ## Some Badges
 
