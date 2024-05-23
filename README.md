@@ -24,7 +24,7 @@
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security-💼-purple)
 ![Privacy](https://img.shields.io/badge/Privacy-💼-purple)
 ![Secure Code Reviews](https://img.shields.io/badge/SAST-💼-purple)
-![Hacking Web](https://img.shields.io/badge/Hacking_Web-💼-purple)
+![Pentesting](https://img.shields.io/badge/Pentesting-💼-purple)
 ![Agile Management](https://img.shields.io/badge/Agile_Management-💼-purple)
 
 ## Background
