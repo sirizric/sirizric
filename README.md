@@ -10,7 +10,7 @@ Hi there! I'm a Computer Engineer from [Carlos III University (UC3M)](https://ww
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![Cloudformation](https://img.shields.io/badge/Cloudformation-Expert-blue)
 ![AWS](https://img.shields.io/badge/AWS-Expert-blue)
-![SAST](https://img.shields.io/badge/SDLC-Expert-blue)
+![SDLC](https://img.shields.io/badge/SDLC-Expert-blue)
 ![Java](https://img.shields.io/badge/Java-Intermediate-green)
 ![Javascript](https://img.shields.io/badge/Javascript-Intermediate-green)
 ![GCP](https://img.shields.io/badge/GCP-Intermediate-green)
