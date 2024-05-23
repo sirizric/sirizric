@@ -26,6 +26,7 @@ Hi there! I'm a Computer Engineer from [Carlos III University (UC3M)](https://ww
 ![Privacy](https://img.shields.io/badge/Privacy-💼-purple)
 ![Secure Code Reviews](https://img.shields.io/badge/SAST-💼-purple)
 ![Pentesting](https://img.shields.io/badge/Pentesting-💼-purple)
+![Code Review](https://img.shields.io/badge/Secure_Code_Review-💼-purple)
 ![Agile Management](https://img.shields.io/badge/Agile_Management-💼-purple)
 
 ## Background
