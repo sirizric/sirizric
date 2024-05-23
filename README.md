@@ -17,20 +17,30 @@
 ![TypeScript](https://img.shields.io/badge/Ts-Beginner-yellow)
 
 
-### Knowledge areas
+## Knowledge areas
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-💼-purple)
+![Vulnerability MAnagement](https://img.shields.io/badge/Vulnerability_Management-💼-purple)
 ![SSDLC](https://img.shields.io/badge/SSDLC-💼-purple)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-💼-purple)
 ![Privacy](https://img.shields.io/badge/Privacy-💼-purple)
-![Secure Code Reviews](https://img.shields.io/badge/AWS-💼-purple)
-![Hacking Web](https://img.shields.io/badge/HackingWeb-💼-purple)
-![Agile Management](https://img.shields.io/badge/AgileManagement-💼-purple)
+![Secure Code Reviews](https://img.shields.io/badge/SAST-💼-purple)
+![Hacking Web](https://img.shields.io/badge/Hacking_Web-💼-purple)
+![Agile Management](https://img.shields.io/badge/Agile_Management-💼-purple)
 
-### 📫 How to reach me:
+## Background
+
+* Staff Security Engineer at Okta (Auth0) focus on ensuring the security and confidentiality of our systems and data.
+* Senior Cloud Security Engineer at Ebury: Led multi-cloud security (AWS, GCP), IAM improvements, and vulnerability management.
+* Lead Application Security Engineer at Openbank (Santander Group): Implemented SSDLC in AWS, integrated security in CI/CD, and led a Security Champions program.
+* DevSecOps Manager at GMV (Orange): Conducted security audits, defined policies, and managed projects.
+* DevSecOps Consultant and Manager at BBVA: Focused on security integration in CI/CD and vulnerability management.
+* Analyst Developer at Management Solution: Worked on projects for BBVA and BCE.
+
+## 📫 How to reach me:
 
 - GitHub: https://github.com/sirizric
 - LinkedIn: www.linkedin.com/in/sergio-iriz-ricote-b71843122
 
-### 📚 Looking for my Resume? E-Mail me!
+## 📚 Looking for my Resume? E-Mail me!
 
 - Contact Email: irizricotesergio@gmail.com
