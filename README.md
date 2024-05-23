@@ -38,9 +38,5 @@
 
 ## 📫 How to reach me:
 
-- GitHub: https://github.com/sirizric
 - LinkedIn: www.linkedin.com/in/sergio-iriz-ricote-b71843122
-
-## 📚 Looking for my Resume? E-Mail me!
-
-- Contact Email: irizricotesergio@gmail.com
+- 📚 Looking for my Resume? E-Mail me! irizricotesergio@gmail.com
