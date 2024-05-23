@@ -14,7 +14,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-Intermediate-green)
 ![GCP](https://img.shields.io/badge/GCP-Intermediate-green)
 ![Go](https://img.shields.io/badge/Go-Beginner-yellow)
-![TypeScript](https://img.shields.io/badge/Ts-Beginner-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-yellow)
 
 
 ## Knowledge areas
@@ -29,7 +29,7 @@
 
 ## Background
 
-* Staff Security Engineer at Okta (Auth0) focus on ensuring the security and confidentiality of our systems and data.
+* (Currently) Staff Security Engineer at Okta (Auth0) focus on ensuring the security and confidentiality of our systems and data.
 * Senior Cloud Security Engineer at Ebury: Led multi-cloud security (AWS, GCP), IAM improvements, and vulnerability management.
 * Lead Application Security Engineer at Openbank (Santander Group): Implemented SSDLC in AWS, integrated security in CI/CD, and led a Security Champions program.
 * DevSecOps Manager at GMV (Orange): Conducted security audits, defined policies, and managed projects.
