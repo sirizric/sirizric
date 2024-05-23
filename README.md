@@ -29,7 +29,7 @@
 ### 📫 How to reach me:
 
 - GitHub: https://github.com/sirizric
-- LinkedIn: https://www.linkedin.com/in/sergio-anguita-lorenzo
+- LinkedIn: www.linkedin.com/in/sergio-iriz-ricote-b71843122
 
 ### 📚 Looking for my Resume? E-Mail me!
 
