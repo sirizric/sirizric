@@ -1,6 +1,6 @@
 # Hello, I'm Sergio Iriz 👋
 
-👋 Hi there! I'm a Computer Engineer from [Carlos III University (UC3M)](https://www.uc3m.es/Home), with a specialization in security. I hold a Master's degree in Information Security and Communication Technologies from the [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu/es/estudios?utm_medium=cpc&utm_source=googlesearch&utm_campaign=cap_nd_es&utm_term=uoc&gad_source=1&gclid=EAIaIQobChMI2ubAyKmjhgMVbJJQBh0vJgDfEAAYASAAEgKjlPD_BwE).
+Hi there! I'm a Computer Engineer from [Carlos III University (UC3M)](https://www.uc3m.es/Home), with a specialization in security. I hold a Master's degree in Information Security and Communication Technologies from the [Universitat Oberta de Catalunya (UOC)](https://www.uoc.edu/es/estudios?utm_medium=cpc&utm_source=googlesearch&utm_campaign=cap_nd_es&utm_term=uoc&gad_source=1&gclid=EAIaIQobChMI2ubAyKmjhgMVbJJQBh0vJgDfEAAYASAAEgKjlPD_BwE).
 
 💼 Currently, I'm working as a Staff Security Engineer at Okta, where I focus on ensuring the security and confidentiality of our systems and data.
 
